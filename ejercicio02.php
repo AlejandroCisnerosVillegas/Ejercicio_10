@@ -2,7 +2,7 @@
 <meta charset="utf-8">
 <link rel="stylesheet" href="style.css">
 </head>
-<form method="POST" name="vaidrollteam">
+<form method="POST" name="AlejandroVillegas">
 <h1>Salario de un empleado</h1>
 <label>Si este trabaja 8 horas diarias y gana 30 pesos la hora.</label><br><br>
 <label>¿Cuánto sería en un día?</label><br><br>
