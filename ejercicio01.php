@@ -2,7 +2,7 @@
 <meta charset="utf-8">
 <link rel="stylesheet" href="style.css">
 </head>
-<form method="POST" name="VaidrollTeam">
+<form method="POST" name="AlejandroVillegas">
 	<h1>Ingresar 3 calificaciones</h1>
 	<input type="number" name="nota1" min="0" placeholder="1° Calificación" required> * 30<br><br>
 	<input type="number" name="nota2" min="0" placeholder="2° Calificación" required> * 20<br><br>
