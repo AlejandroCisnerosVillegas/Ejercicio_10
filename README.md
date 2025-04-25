@@ -24,9 +24,9 @@ Archivo: **ejercicio2.php**
 
 Esta actividad demuestra habilidades en la creación de formularios web, procesamiento de datos con PHP y presentación de resultados con un diseño limpio y profesional.
 
-**Consulta la versión preliminar de la actividad 01 aquí:** [https://ejercicio_10_01.com](https://alejandrovillegas.net/projects/exercise-10/ejercicio01.php)
+**Consulta la versión preliminar de la actividad 01 aquí:** [https://ejercicio_10_01.com](https://www.alejandrovillegas.dev/projects/exercise-10/ejercicio01.php)
 
-**Consulta la versión preliminar de la actividad 02 aquí:** [https://ejercicio_10_02.com](https://alejandrovillegas.net/projects/exercise-10/ejercicio02.php)
+**Consulta la versión preliminar de la actividad 02 aquí:** [https://ejercicio_10_02.com](https://www.alejandrovillegas.dev/projects/exercise-10/ejercicio02.php)
 
 # 📌 Información de la Actividad
 
@@ -38,7 +38,7 @@ Esta actividad ha sido desarrollado como parte del portafolio de soluciones tecn
 
 - **Fecha de Desarrollo**: 23 de octubre de 2018
 
-- **Portafolio de Proyectos**: [www.alejandrovillegas.net](https://www.alejandrovillegas.net/)
+- **Portafolio de Proyectos**: [www.alejandrovillegas.dev](https://www.alejandrovillegas.dev)
 
 ## 🔧 Guía de Instalación y Configuración de la Actividad
 
